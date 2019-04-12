@@ -15,7 +15,7 @@ Unser Service besteht aus 3 verknüpften Container. Einem Wordpress, MySQL und P
 
 **Netzwerkplan:**
 
-![Netzwerkplan_Docker](https://github.com/Dionysos376/Docker/blob/master/Netzwerkplan_Docker.png)
+![Netzwerkplan_Docker](https://github.com/jennyonfire/Docker/blob/master/Netzwerkplan_Docker.png)
 
 _Gelb = Netzwerk Zone der 3 Containers_
 
